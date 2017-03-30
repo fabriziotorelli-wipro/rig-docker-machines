@@ -16,11 +16,13 @@ You can pull the image from builditftorelli/eolas-mongodb or build it with comma
 
 ## Run
 
-docker run -d  -p 27017:27017 -it --name my-mongodb -v /my/volume/path:/bitnami/mongodb builditftorelli/eolas-mongodb:3.4.2-r1
+Use the following docker commands to run a container for the Docker image :
+
+`docker run -d  -p 27017:27017 -it --name my-mongodb -v /my/volume/path:/bitnami/mongodb builditftorelli/eolas-mongodb:3.4.2-r1`
 
 or
 
-docker run -d  -p 27017:27017 -it --name my-mongodb -v /my/volume/path:/bitnami/mongodb builditftorelli/eolas-mongodb:3.0
+`docker run -d  -p 27017:27017 -it --name my-mongodb -v /my/volume/path:/bitnami/mongodb builditftorelli/eolas-mongodb:3.0`
 
 ## Docker Compose
 

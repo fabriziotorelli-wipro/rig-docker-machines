@@ -12,7 +12,7 @@ This repo concerns any docker images avaialbe in [Docker Hub](https://hub.docker
 
 You can pull the image from docker hub at `builditftorelli/<image>` or build it with command :
 
-`docker build --tag `builditftorelli/<image>:<version> .`
+`docker build --tag builditftorelli/<image>:<version> .`
 
 or running the `build.sh` script in the image folder.
 
@@ -24,7 +24,7 @@ or running the `build.sh` script in the image folder.
 
 RIG is a Buildit concept around the deployment of architectures in the cloud, with a resilient and dynamic approach. RIG is designed to live in any cloud provider. Buildit continuously improve the experience with innovations and sophisticated architectural solutions. In the RIG Rancher Orchestration experience it will available the deployment of multiple cloud providers and multi-purpose platform architectures.
 
-[Buildit](https://buildit.digital/) is a World-Wide Digital Business Transformation company of [Wipro Digital](http://wiprodigital.com/) group. 
+[Buildit](https://buildit.digital/) is a World-Wide Digital Business Transformation company of [Wipro Digital](http://wiprodigital.com/) group.
 
 Take a look at [Buildit](https://buildit.digital/) or [Wipro Digital](http://wiprodigital.com/) web sites for more information.
 
@@ -35,4 +35,3 @@ Please open any issue on the [Issue Tracker](https://github.com/fabriziotorelli-
 ## LICENSE
 
 [MIT](/LICENSE)
-
