@@ -55,11 +55,11 @@ Take a look at [Buildit](https://buildit.digital/) or [Wipro Digital](http://wip
 
 Eolas and Synapse are respectively Backend and Front-End applications for a project-driven Pipeline Dashboards, collection metrics and providing grephs and much more ...
 
-Ask more details to [Paul Karsten](mailto:paul.karsten@wipro.com) - USA
+Ask more details to [Paul Karsten - Buildit@WiproDigital](mailto:paul.karsten@wipro.com) - USA
 
 There are other Pipeline Dashboards and Digital Processes available  :
 
-Ask more details to [Glyn Darkin](mailto:glyn.darkin@wipro.com) - Ireland/UK
+Ask more details to [Glyn Darkin - Buildit@WiproDigital](mailto:glyn.darkin@wipro.com) - Ireland/UK
 
 ## Issues
 
