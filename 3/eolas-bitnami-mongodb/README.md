@@ -6,7 +6,7 @@ Define a ready and data provided docker image for EOLAS/Synapse integration test
 
 ## Definition
 
-This docker image is based on the original bitnami/mongodb, and it's used in the Buildit rancher catalog Kubernetes Pipiline template.
+This docker image is based on the original bitnami/mongodb, and it's used in the Buildit rancher catalog Kubernetes Pipeline template.
 
 ## Build
 
