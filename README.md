@@ -1,7 +1,7 @@
 # rig-docker-machines
 RIG docker images versioned by RIG version
 
-## Scope
+## Goals
 
 Define a set of docker images for Buildit Pipelines RIG around Rancher Orchestration.
 
