@@ -1,5 +1,4 @@
-# rig-docker-machines
-RIG docker images versioned by RIG version
+# RIG Docker Images
 
 ## Goals
 
