@@ -48,7 +48,7 @@ $ docker run -d -p 8080:8000 \
 
 ## Issues
 
-Please report any issue on the [Issue Tracker](https://github.com/fabriziotorelli-wipro/rig-docker-machines/issues)
+Please report any issue on the [Issue Tracker](https://github.com/fabriziotorelli-wipro/rig-docker-machines/issues) with prefix `EDGEMICRO:`
 
 ## License
 
