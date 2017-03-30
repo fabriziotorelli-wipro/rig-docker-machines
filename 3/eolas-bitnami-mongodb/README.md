@@ -12,7 +12,7 @@ This docker image is based on the original bitnami/mongodb, and it's used in the
 
 You can pull the image from builditftorelli/eolas-mongodb or build it with command :
 
-`docker build --tag `builditftorelli/eolas-mongodb:XXX .` for the default 3.4.2-r1 release or the 3 release (int the folder [3](/3)
+`docker build --tag `builditftorelli/eolas-mongodb:XXX .` for the default 3.4.2-r1 release or the 3 release (int the folder for [release 3](/3/eolas-bitnami-mongodb/3)
 
 ## Run
 
