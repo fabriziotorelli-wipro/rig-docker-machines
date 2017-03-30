@@ -32,7 +32,7 @@ Any topic about execution is available in each image repositiory in [DockerHub](
 
 ## Issues
 
-Please report any issue on the [Issue Tracker](https://github.com/fabriziotorelli-wipro/rig-docker-machines/issues)
+Please report any issue on the [Issue Tracker](https://github.com/fabriziotorelli-wipro/rig-docker-machines/issues) with prefix `ANSIBLE-MACHINES-<IMAGE-NAME>:`
 
 ## License
 
