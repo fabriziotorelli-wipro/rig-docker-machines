@@ -1,6 +1,6 @@
 # Eolas Test Data provided Bitnami MongoDb
 
-## Scope
+## Goals
 
 Define a ready and data provided docker image for EOLAS/Synapse integration test.
 
