@@ -53,7 +53,7 @@ Take a look at [Buildit](https://buildit.digital/) or [Wipro Digital](http://wip
 
 ## What are Eolas and Synapse ?
 
-Eolas and Synapse are respectively Backend and Front-End applications for a project-driven Pipeline Dashboards, collection metrics and providing grephs and much more ...
+Eolas and Synapse are respectively Backend and Front-End applications for a project-driven Pipeline Dashboards, collection metrics and providing statistics and graphs on the Development/Release process, deploying Docker-Container release applications and much more ...
 
 Ask more details to [Paul Karsten - Buildit@WiproDigital](mailto:paul.karsten@wipro.com) - USA
 
