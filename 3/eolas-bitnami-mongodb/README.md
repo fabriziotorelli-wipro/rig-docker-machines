@@ -61,7 +61,7 @@ There are other Pipeline Dashboards and Digital Processes available  :
 
 Ask more details to [Glyn Darkin - Buildit@WiproDigital](mailto:glyn.darkin@wipro.com) - Ireland/UK
 
-Buildit Digital consultancy is driven to ensure digital processes for companies, providing guidelines and methodologies in order to ensure efficient and proficient Agile or Agile SAFe processes, across multiple disciplines.
+Buildit Digital consultancy is driven to ensure digital processes for companies. Our exellence centres provide guidelines and methodologies, in order to ensure efficient and proficient Agile / Agile SAFe processes, across multiple disciplines.
 
 ## Issues
 
