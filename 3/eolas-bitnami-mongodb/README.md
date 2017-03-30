@@ -38,9 +38,8 @@ services:
 
 Docker compose file samples:
 
-[Version 3.4.2-r1] (/3/eolas-bitnami-mongodb/docker-compose.yaml)
-
-[Version 3.0] (/3/eolas-bitnami-mongodb/3/docker-compose.yaml)
+* [Version 3.4.2-r1](/3/eolas-bitnami-mongodb/docker-compose.yaml)
+* [Version 3.0](/3/eolas-bitnami-mongodb/3/docker-compose.yaml)
 
 ## RIG technology
 
