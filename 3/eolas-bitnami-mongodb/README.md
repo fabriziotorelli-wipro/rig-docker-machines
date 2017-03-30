@@ -36,6 +36,10 @@ services:
       - /root/mongo-db/local:/bitnami/mongodb
 ```
 
+Docker compose file samples:
+* [Version 3.4.2-r1] (/3/eolas-bitnami-mongodb/docker-compose.yaml)
+* [Version 3.0] (/3/eolas-bitnami-mongodb/3/docker-compose.yaml)
+
 ## RIG technology
 
 RIG is a Buildit concept around the deployment of architectures in the cloud, with a resilient and dynamic approach. RIG is designed to live in any cloud provider. Buildit continuously improve the experience with innovations and sophisticated architectural solutions. In the RIG Rancher Orchestration experience it will available the deployment of multiple cloud providers and multi-purpose platform architectures.
