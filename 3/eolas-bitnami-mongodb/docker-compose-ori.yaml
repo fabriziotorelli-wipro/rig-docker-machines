@@ -1,7 +1,0 @@
-version: '2'
-
-services:
-  mongodb:
-    image: 'bitnami/mongodb:3.4.2-r1'
-    ports:
-      - "27017:27017"

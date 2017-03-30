@@ -22,6 +22,20 @@ or
 
 docker run -d  -p 27017:27017 -it --name my-mongodb -v /my/volume/path:/bitnami/mongodb builditftorelli/eolas-mongodb:3.0
 
+## Docker Compose
+
+```
+version: '2'
+
+services:
+  mongodb:
+    image: 'builditftorelli/eolas-mongodb:latest'
+    ports:
+      - "27017:27017"
+    volumes:
+      - /root/mongo-db/local:/bitnami/mongodb
+```
+
 ## RIG technology
 
 RIG is a Buildit concept around the deployment of architectures in the cloud, with a resilient and dynamic approach. RIG is designed to live in any cloud provider. Buildit continuously improve the experience with innovations and sophisticated architectural solutions. In the RIG Rancher Orchestration experience it will available the deployment of multiple cloud providers and multi-purpose platform architectures.

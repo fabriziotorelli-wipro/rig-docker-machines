@@ -2,6 +2,6 @@ version: '2'
 
 services:
   mongodb:
-    image: 'builditftorelli/eolas-mongodb:3'
+    image: 'builditftorelli/eolas-mongodb:3.0'
     ports:
       - "27017:27017"
