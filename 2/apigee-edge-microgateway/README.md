@@ -1,6 +1,8 @@
 # Apigee Edge Microgateway for Docker
 
-* Run your Apigee Edge Microgateway instances in Docker containers.
+## Goals
+
+Run your Apigee Edge Microgateway Apps and Proxies in a Docker container, easily and in a full automated process. No manual steps are needed, no token recovery. Provide your organization, environment, credential, and the public or provate network flag and the container will make all you need to access your Apigee edge environment.
 
 ## Build the image
 
