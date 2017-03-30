@@ -2,7 +2,7 @@
 
 ## Goals
 
-Define a ready and data provided docker image for EOLAS/Synapse integration test.
+Define a ready and data provided docker image for EOLAS/Synapse integration tests.
 
 ## Definition
 
