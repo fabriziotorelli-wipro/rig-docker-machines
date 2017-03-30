@@ -26,6 +26,6 @@ docker run -d  -p 27017:27017 -it --name my-mongodb -v /my/volume/path:/bitnami/
 
 Please open any issue on the [Issue Tracker](https://github.com/fabriziotorelli-wipro/rig-docker-machines/issues) with the subject prefix `EOLAS-MONGODB:`
 
-##LICENSE
+## LICENSE
 
 [MIT](/LICENSE)
