@@ -29,7 +29,7 @@ Take a look at [Buildit](https://buildit.digital/) or [Wipro Digital](http://wip
 
 ## Issues
 
-Please open any issue on the [Issue Tracker](https://github.com/fabriziotorelli-wipro/rig-docker-machines/issues) with the subject prefix `EOLAS-MONGODB:`
+Please open any issue on the [Issue Tracker](https://github.com/fabriziotorelli-wipro/rig-docker-machines/issues) with the subject prefix `<RIG-VERSION>[-<SECTION-NAME>]-<IMAGE-NAME>:`
 
 ## LICENSE
 
