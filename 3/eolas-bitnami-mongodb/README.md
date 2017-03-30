@@ -12,7 +12,7 @@ This docker image is based on the original bitnami/mongodb, and it's used in the
 
 You can pull the image from builditftorelli/eolas-mongodb or build it with command :
 
-`docker build --tag `builditftorelli/eolas-mongodb:XXX .` for the default 3.4.2-r1 release or the 3 release (refer to the folder for [release 3](/3/eolas-bitnami-mongodb/3))
+`docker build --tag `builditftorelli/eolas-mongodb:XXX .` for the default 3.4.2-r1 release or the 3.0 release (refer to the folder for [release 3](/3/eolas-bitnami-mongodb/3))
 
 ## Run
 
@@ -20,13 +20,13 @@ docker run -d  -p 27017:27017 -it --name my-mongodb -v /my/volume/path:/bitnami/
 
 or
 
-docker run -d  -p 27017:27017 -it --name my-mongodb -v /my/volume/path:/bitnami/mongodb builditftorelli/eolas-mongodb:3
+docker run -d  -p 27017:27017 -it --name my-mongodb -v /my/volume/path:/bitnami/mongodb builditftorelli/eolas-mongodb:3.0
 
 ## RIG technology
 
 RIG is a Buildit concept around the deployment of architectures in the cloud, with a resilient and dynamic approach. RIG is designed to live in any cloud provider. Buildit continuously improve the experience with innovations and sophisticated architectural solutions. In the RIG Rancher Orchestration experience it will available the deployment of multiple cloud providers and multi-purpose platform architectures.
 
-[Buildit](https://buildit.digital/) is a World-Wide Digital Business Transformation company of [Wipro Digital](http://wiprodigital.com/) group. 
+[Buildit](https://buildit.digital/) is a World-Wide Digital Business Transformation company of [Wipro Digital](http://wiprodigital.com/) group.
 
 Take a look at [Buildit](https://buildit.digital/) or [Wipro Digital](http://wiprodigital.com/) web sites for more information.
 
