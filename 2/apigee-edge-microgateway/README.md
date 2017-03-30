@@ -48,4 +48,4 @@ $ docker run -d -p 8080:8000 \
 
 ## License
 
-[Apache License, Version 2.0](/LICENSE.md)
+[Apache License, Version 2.0](/2/apigee-edge-microgateway/LICENSE)
