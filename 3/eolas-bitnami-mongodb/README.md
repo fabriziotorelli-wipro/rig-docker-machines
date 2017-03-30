@@ -24,7 +24,7 @@ docker run -d  -p 27017:27017 -it --name my-mongodb -v /my/volume/path:/bitnami/
 
 ## Issues
 
-Please open any issue on the [Issue Tracker](https://github.com/fabriziotorelli-wipro/rig-docker-machines/issues) with the subject prefix `EOLAS-MONGODB:`
+Please open any issue on the [Issue Tracker](https://github.com/fabriziotorelli-wipro/rig-docker-machines/issues) with the subject prefix `3-EOLAS-MONGODB:`
 
 ## LICENSE
 
