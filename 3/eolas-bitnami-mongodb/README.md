@@ -1,4 +1,4 @@
-# Eolas Test Data provided Bitnami MongoDb
+# Eolas/Synapse Test Data provided Bitnami MongoDb
 
 ## Goals
 
