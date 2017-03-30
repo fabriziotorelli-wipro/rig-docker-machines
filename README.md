@@ -18,7 +18,7 @@ or running the `build.sh` script in the image folder.
 
 ## Run
 
-docker run -d  -p <public-port>:<container-port> -it --name my-image -v /my/volume/path:/guest/volume/path builditftorelli/<image>:<version>
+`docker run -d  -p <public-port>:<container-port> -it --name my-image -v /my/volume/path:/guest/volume/path builditftorelli/<image>:<version>`
 
 ## RIG technology
 
