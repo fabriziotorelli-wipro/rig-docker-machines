@@ -51,6 +51,16 @@ RIG is a Buildit concept around the deployment of architectures in the cloud, wi
 
 Take a look at [Buildit](https://buildit.digital/) or [Wipro Digital](http://wiprodigital.com/) web sites for more information.
 
+## What are Eolas and Synapse ?
+
+Eolas and Synapse are respectively Backend and Front-End applications for a project-driven Pipeline Dashboards, collection metrics and providing grephs and much more ...
+
+Ask more details to [Paul Karsten](mailto:paul.karsten@wipro.com) - USA
+
+There are other Pipeline Dashboards and Digital Processes available  :
+
+Ask more details to [Glyn Darkin](mailto:glyn.darkin@wipro.com) - Ireland/UK
+
 ## Issues
 
 Please open any issue on the [Issue Tracker](https://github.com/fabriziotorelli-wipro/rig-docker-machines/issues) with the subject prefix `3-EOLAS-MONGODB:`
