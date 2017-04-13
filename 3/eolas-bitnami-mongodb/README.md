@@ -53,7 +53,7 @@ Take a look at [Buildit](https://buildit.digital/) or [Wipro Digital](http://wip
 
 ## What are Eolas and Synapse ?
 
-Eolas and Synapse are respectively Backend and Front-End applications for a project-driven Pipeline Dashboards, collection metrics and providing statistics and graphs on the Development/Release process and much more ...
+Eolas and Synapse are respectively Backend and Front-End applications for a project-driven Pipeline Dashboards, collection metrics and providing statistics and graphs on the Development/Release processes, and much more ...
 
 Ask more details to [Paul Karsten - Buildit@WiproDigital](mailto:paul.karsten@wipro.com) - USA
 
@@ -61,7 +61,7 @@ There are other Pipeline Dashboards and Digital Processes available  :
 
 Ask more details to [Glyn Darkin - Buildit@WiproDigital](mailto:glyn.darkin@wipro.com) - Ireland/UK
 
-Buildit Digital consultancy is driven to ensure digital processes for companies, providing guidelines and methodologies in order to ensure efficient and proficient Agile or Agile SAFe processes, across multiple disciplines.
+Buildit Digital consultancy is driven to ensure digital processes for companies. Our exellence centres provide guidelines and methodologies, in order to ensure efficient and proficient Agile / Agile SAFe processes, across multiple disciplines and the entire life-cycle (End-to-End Solutions).
 
 ## Issues
 
