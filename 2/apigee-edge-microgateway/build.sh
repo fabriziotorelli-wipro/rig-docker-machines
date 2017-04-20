@@ -17,4 +17,5 @@ docker build --compress --no-cache --rm --force-rm --tag buildit/apigee-edge-mic
 EXISTS="$(docker images|grep 'buildit/apigee-edge-micro')"
 if ! [[ -z "$EXISTS"  ]]; then
   docker tag buildit/apigee-edge-micro:2.3.5 builditftorelli/apigee-edge-micro:2.3.5
+  # docker push builditftorelli/apigee-edge-micro:2.3.5
 fi
